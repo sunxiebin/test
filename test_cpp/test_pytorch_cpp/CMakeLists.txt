@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+project(test_pytorch)
+set(CMAKE_PREFIX_PATH "/usr/local/lib/libtorch")
+find_package(Torch REQUIRED)
+add_executable(test_pytorch test_pytorch.cpp)
+target_link_libraries(test_pytorch "${TORCH_LIBRARIES}")
+set_property(TARGET test_pytorch PROPERTY  CXX_STANDARD 17)
