@@ -1,4 +1,6 @@
 build/
 *~
 target/
-*.wasm
+web-demo/
+CMakeFiles/
+CMakeCache.txt
