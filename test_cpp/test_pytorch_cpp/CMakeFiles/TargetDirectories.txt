@@ -1,3 +1,0 @@
-/Users/sunxiebin/Project/test/test_cpp/test_pytorch_cpp/CMakeFiles/test_pytorch.dir
-/Users/sunxiebin/Project/test/test_cpp/test_pytorch_cpp/CMakeFiles/edit_cache.dir
-/Users/sunxiebin/Project/test/test_cpp/test_pytorch_cpp/CMakeFiles/rebuild_cache.dir
